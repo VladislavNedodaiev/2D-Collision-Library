@@ -10,4 +10,4 @@ Note: Methods and structures are in namespace CollisionLibrary2D.
 
 ### struct CollisionLibrary::Point2F
 Point2F struct is used to determine the point in 2D environment. It stores 2 variables: x and y.
-##### wew
+###### wew
